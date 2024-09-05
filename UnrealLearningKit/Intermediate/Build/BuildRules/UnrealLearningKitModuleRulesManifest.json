@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\PROYECTOS\\UNREAL\\LK\\UnrealLearningKit\\Source\\UnrealLearningKit\\UnrealLearningKit.Build.cs",
+		"F:\\PROYECTOS\\UNREAL\\LK\\UnrealLearningKit\\Source\\UnrealLearningKit.Target.cs",
+		"F:\\PROYECTOS\\UNREAL\\LK\\UnrealLearningKit\\Source\\UnrealLearningKitEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

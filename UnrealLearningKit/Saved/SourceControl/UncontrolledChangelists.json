@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/PROYECTOS/UNREAL/LK/UnrealLearningKit/Content/MainLevel.umap",
+				"F:/PROYECTOS/UNREAL/LK/UnrealLearningKit/Content/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"F:/PROYECTOS/UNREAL/LK/UnrealLearningKit/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"F:/PROYECTOS/UNREAL/LK/UnrealLearningKit/Content/Blueprints/BP_MovingPlatform.uasset",
+				"F:/PROYECTOS/UNREAL/LK/UnrealLearningKit/Content/Blueprints/BP_PushingCube.uasset",
+				"F:/PROYECTOS/UNREAL/LK/UnrealLearningKit/Content/BP_ObstacleAssaultGameMode.uasset",
+				"F:/PROYECTOS/UNREAL/LK/UnrealLearningKit/Content/Blueprints/BT_RotatingPlatform.uasset",
+				"F:/PROYECTOS/UNREAL/LK/UnrealLearningKit/Content/BP_PushingCube.uasset"
+			]
+		}
+	]
+}
